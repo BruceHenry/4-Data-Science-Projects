@@ -21,7 +21,7 @@ This is a Project using scikit-learn to analyze text data. This project includes
 3. Explore Machine learning Algorithms(LinearSVC and KNeighbors)
 4. Split Positive and Negative in a Scatter Plot
 
-## [(4) Data Analysis of Stack Overflow Developer Survey, 2017](./survey_results_public.csv)
+## [(4) Data Analysis of Stack Overflow Developer Survey, 2017](./StackOverflow2017Survey.ipynb)
 1. Correlation between Salary and Work Year
 2. Correlation between Salary and Education Degree
 3. Where are the surveys from?
