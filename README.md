@@ -15,7 +15,7 @@ This project includes,
 4. Business Question: How to Improve the Income of Movie Company?
 
 ## [(3) Textual Analysis: Movie Reviews](./MovieReviewTextualAnalysis.ipynb)
-This is a Project using scikit-learn to analyze text data. This project includes,
+This is a project using scikit-learn to analyze text data. This project includes,
 1. Work with Text Data Using Scikit-Learn
 2. Explore TfidVectorizer Parameters
 3. Explore Machine learning Algorithms(LinearSVC and KNeighbors)
