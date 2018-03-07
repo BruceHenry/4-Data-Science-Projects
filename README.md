@@ -1,5 +1,7 @@
 # Four Data Science Projects
 
+Click the following title visit each Jupyter Notebook of the project.
+
 ## [(1) Twitter Analysis](./TwitterAnalysis.ipynb) 
 This project includes,
 1. Download Data from Twitter
